@@ -2,8 +2,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- Frontend: React, Next.js, Tailwind CSS  
-- Backend: Node.js, Express, MongoDB  
+- Backend: Python, Java, PostgreSQL  
 
 ---
 - https://github-readme-stats.vercel.app/api/top-langs/?username=SoEun99
